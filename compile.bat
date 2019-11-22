@@ -1,0 +1,1 @@
+go build -ldflags="-s -w" -buildmode=c-shared -o main.dll src\github.com\vchatchai\godll\main.go
